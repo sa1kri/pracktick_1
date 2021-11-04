@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # горячие клавиши
 #### выделить все:
 Ctrl+A
@@ -81,3 +81,12 @@ git pull
 ### VS code:
 [code.visualstudio.com](https://code.visualstudio.com/)
 >>>>>>> 926fd74a9953ff2aa57271ea2b923697f098da47
+### SublimeText
+[sublimetext.com](https://www.sublimetext.com/3)
+
+# технологии :
+### БЭМ металогии
+[bem.info/methodology](https://ru.bem.info/methodology/)
+# ресурсы :
+###  шрифты
+[fonts.google](https://fonts.google.com)
