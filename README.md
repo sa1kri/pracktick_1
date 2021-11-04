@@ -29,6 +29,10 @@ git commit -m "..."
 ```bash
 git push
 ```
+### принять изменинея из облака :
+```bash
+git pull
+```
 # ссылки:
 ### Git:
 [git-scm.com](https://git-scm.com/)
