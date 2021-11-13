@@ -90,3 +90,6 @@ git pull
 # ресурсы :
 ###  шрифты
 [fonts.google](https://fonts.google.com)
+
+#   информация
+[html5book.ru/css3-animation](https://html5book.ru/css3-animation/)
