@@ -43,7 +43,7 @@ body {
         transform: translateX(0);
     }
     100% {
-        transform: translateX(-200px);
+        transform: translateX(200px);
     }
 }
 
@@ -62,7 +62,7 @@ body {
     /* 3 шаг */
     animation: animate 1.5s ease-in-out infinite;
     /* 5 шаг */
-    transform-origin: bottom right;
+    transform-origin: bottom left;
 
     border-radius: 2px;
     cursor: pointer;
@@ -75,19 +75,19 @@ body {
         transform: rotate(0deg);
     }
     60% {
-        transform: rotate(90deg);
+        transform: rotate(-90deg);
     }
     /* 6 шаг */
     65% {
-        transform: rotate(85deg);
+        transform: rotate(-85deg);
     }
     70% {
-        transform: rotate(90deg);
+        transform: rotate(-90deg);
     }
     75% {
-        transform: rotate(87.5deg);
+        transform: rotate(-87.5deg);
     }
     80%, 100% {
-        transform: rotate(90deg);
+        transform: rotate(-90deg);
     }
 }

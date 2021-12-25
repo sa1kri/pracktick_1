@@ -1,0 +1,23 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.krug {
+    height: 200 px;
+    width: 200 px;
+    background-color: rgb(243, 2, 2);
+    border-radius: 50%;
+    animation: krug 2s infinite forwards;
+    cursor: pointer;
+    transition: background-color ease-in-out .25s
+}
